@@ -45,3 +45,11 @@ __Melhoria 1__, _melhoria 2._
 Contribuidor principal: https://github.com/Henrique-Moreira
 
 [![Logo do Spring](img/logo-spring.png)](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a+b;
+}
+```
