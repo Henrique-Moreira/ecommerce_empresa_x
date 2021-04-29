@@ -34,4 +34,4 @@ __Melhoria 1__, _melhoria 2._
 
 ### Imagem externa
 
-![Logo do Jquery](https://img2.gratispng.com/20180704/zoa/kisspng-jquery-ui-javascript-web-browser-pasargad-5b3d093837a4d4.5712269815307267122279.jpg)
+![Logo do Jquery](https://www.logolynx.com/images/logolynx/7c/7cd9586a595db92320ebf7beab22a7af.png)
