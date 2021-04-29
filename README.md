@@ -31,3 +31,7 @@ __Melhoria 1__, _melhoria 2._
 ### Imagem local
 
 ![Logo do Spring](img/logo-spring.png)
+
+### Imagem externa
+
+![Logo do Jquery](https://img2.gratispng.com/20180704/zoa/kisspng-jquery-ui-javascript-web-browser-pasargad-5b3d093837a4d4.5712269815307267122279.jpg)
