@@ -35,3 +35,7 @@ __Melhoria 1__, _melhoria 2._
 ### Imagem externa
 
 ![Logo do Jquery](https://www.logolynx.com/images/logolynx/7c/7cd9586a595db92320ebf7beab22a7af.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com/)
