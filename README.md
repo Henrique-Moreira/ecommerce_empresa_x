@@ -11,10 +11,16 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 __Melhoria 1__, _melhoria 2._
 
-### Linguagenns do projeto:
+### Linguagens do projeto:
 
 * HTML
 * CSS
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de membros.
+2. Integração com outros pagamentos.
+3. Sistema de bônus primeira compra.
