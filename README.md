@@ -41,3 +41,5 @@ __Melhoria 1__, _melhoria 2._
 [Google](https://www.google.com/)
 
 [https://www.google.com/](https://www.google.com/)
+
+Contribuidor principal: https://github.com/Henrique-Moreira
