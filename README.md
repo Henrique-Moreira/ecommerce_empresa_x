@@ -61,6 +61,8 @@ function soma(a, b) {
 - [ ] Sistema de bônus
 - [x] CSS do rodapé
 
-## Emogs
+## Emojis
+[Link com todos os emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents)
 
-:zany_face:
+### Exemplos:
+:zany_face: :clown_face: :japanese_goblin: :alien: :space_invader: :ok_hand:
