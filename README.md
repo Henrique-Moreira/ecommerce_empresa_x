@@ -43,3 +43,5 @@ __Melhoria 1__, _melhoria 2._
 [https://www.google.com/](https://www.google.com/)
 
 Contribuidor principal: https://github.com/Henrique-Moreira
+
+[![Logo do Spring](img/logo-spring.png)](https://docs.spring.io/spring-framework/docs/current/reference/html/)
