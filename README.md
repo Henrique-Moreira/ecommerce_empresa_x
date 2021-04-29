@@ -60,3 +60,7 @@ function soma(a, b) {
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de bônus
 - [x] CSS do rodapé
+
+## Emogs
+
+:zany_face:
